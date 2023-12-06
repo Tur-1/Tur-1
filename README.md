@@ -1,4 +1,4 @@
-![77caa32884d735d439ade45ba37feaf2](https://github.com/Tur-1/Tur-1/assets/63422322/0d8f9017-8054-402a-8d07-ade6b13c26b3)
+<img align="center" src"https://github.com/Tur-1/Tur-1/assets/63422322/0d8f9017-8054-402a-8d07-ade6b13c26b3"  alt="tur-1"/> 
 
 <h1 align="center">Hi 👋, I'm Turki</h1>
 <h3 align="center">A passionate Full Stack Web Developer from KSA</h3>
