@@ -1,4 +1,4 @@
-![Uploading b595e503a0d6bdc50fe89ac05d162e87.jpg…]()
+
 
 
 <h1 align="center">Hi 👋, I'm Turki</h1>
