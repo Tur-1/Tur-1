@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Tur-1/Tur-1/assets/63422322/a601ffae-42c1-4502-86b6-80073c4c169b)
+![MasterHead](https://github.com/Tur-1/Tur-1/assets/63422322/a601ffae-42c1-4502-86b6-80073c4c169b)
 
 
 
