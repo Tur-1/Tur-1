@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tur-1&label=Profile%20views&color=0e75b6&style=flat" alt="tur-1" /> </p>
 
-- 🔭 I’m currently working on [MVC Framework](https://github.com/Tur-1/Tur-Framework)
-
-- 🌱 I’m currently learning **Swift**
+- 🔭 I’m currently working on [Tur-Framework](https://github.com/Tur-1/Tur-Framework)
 
 - 💬 Ask me about **PHP, Laravel, Javascript, React, Vue, MySql,**
 
