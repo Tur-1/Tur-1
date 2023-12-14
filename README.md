@@ -1,5 +1,3 @@
-![theme](https://github.com/Tur-1/Tur-1/assets/63422322/31e17a87-6291-40ad-8a59-eb5c63963206)
-
 
 <h1 align="center">Hi 👋, I'm Turki</h1>
 <h3 align="center">A passionate Web Developer from KSA</h3>
